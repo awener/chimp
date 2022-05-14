@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chimp/static/css/main.5830189d.css",
+    "main.js": "/chimp/static/js/main.e7d4f75a.js",
+    "static/js/787.8600a671.chunk.js": "/chimp/static/js/787.8600a671.chunk.js",
+    "index.html": "/chimp/index.html",
+    "main.5830189d.css.map": "/chimp/static/css/main.5830189d.css.map",
+    "main.e7d4f75a.js.map": "/chimp/static/js/main.e7d4f75a.js.map",
+    "787.8600a671.chunk.js.map": "/chimp/static/js/787.8600a671.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5830189d.css",
+    "static/js/main.e7d4f75a.js"
+  ]
+}
